@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "GANHAR DINHEIRO - MONETIZZE",
-    "currentPage": "index.html",
+    "name": "EBOOKS GANHAR DINHEIRO NA INTERNET",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,11 +61,11 @@
     "modified": "2020-05-24T20:59:13.415Z"
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "COMO VENDER TODOS OS DIAS NA INTERNET",
-        "meta_descr": "",
+        "title": "E-BOOKS PARA O MARKETING DIGITAL",
+        "meta_descr": "Escolha o E-Book que melhor lhe interessar e comece uma nova fase profissional no Marketing Digital.\nAprenda a crescer e ganhar muito dinheiro trabalhando através da Internet no conforto da sua casa.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
