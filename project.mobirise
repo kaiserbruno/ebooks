@@ -51,14 +51,15 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://kaiserbruno.github.io/ebooks/home.html/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
     "google-analytics": "<!-- Google Analytics -->\n<script>\nwindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\nga('create', 'UA-156899291-10', 'auto');\nga('send', 'pageview');\n</script>\n<script async src='https://www.google-analytics.com/analytics.js'></script>\n<!-- End Google Analytics -->",
-    "modified": "2020-05-24T20:59:13.415Z"
+    "modified": "2020-05-24T20:59:13.415Z",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "home.html": {
