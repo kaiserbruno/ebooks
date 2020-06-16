@@ -57,7 +57,7 @@
     "siteUrl": "https://kaiserbruno.github.io/ebooks/home.html/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- Google Analytics -->\n<script>\nwindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\nga('create', 'UA-156899291-10', 'auto');\nga('send', 'pageview');\n</script>\n<script async src='https://www.google-analytics.com/analytics.js'></script>\n<!-- End Google Analytics -->\n\n<meta name=\"google-site-verification\" content=\"RNrup0Uw64dTJL4zp2eVHbuoWQ2k0aVsRwiaVPm9Ks4\" />",
+    "google-analytics": "<!-- Google Analytics -->\n<script>\nwindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\nga('create', 'UA-156899291-10', 'auto');\nga('send', 'pageview');\n</script>\n<script async src='https://www.google-analytics.com/analytics.js'></script>\n<!-- End Google Analytics -->\n\n<meta name=\"google-site-verification\" content=\"RNrup0Uw64dTJL4zp2eVHbuoWQ2k0aVsRwiaVPm9Ks4\" />\n\ngoogle-site-verification: google104b3bbe01c67ec2.html",
     "modified": "2020-05-24T20:59:13.415Z",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
